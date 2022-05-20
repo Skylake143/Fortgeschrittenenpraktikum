@@ -1,0 +1,5 @@
+#Messung 7.5mm d_spot = 6.7733E-05
+#Abstand [m]	d_Speckle
+0.3	8.37921E-05
+0.15	6.39398E-05
+0.075	5.42500E-05
