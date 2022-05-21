@@ -1,0 +1,5 @@
+#Messung 1 sonst Abstand 30cm
+#d_Spot [mum]	d_Speckle [mum]
+2.6848E-05	9.84638E-05
+6.7733E-05	8.37921E-05
+1.0095E-04	7.54344E-05
