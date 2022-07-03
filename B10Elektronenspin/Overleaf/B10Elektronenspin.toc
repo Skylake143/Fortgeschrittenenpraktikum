@@ -1,0 +1,19 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {section}{\numberline {1}Vorbereitung und Grundlagen}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Absorptions- und Emissionsprozesse}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Spin und Drehmoment}{3}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Larmorfrequenz}{5}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Analogie zum Zeemaneffekt}{5}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Quantenmechanische Auswahlregeln}{6}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}Fein- und Hyperfeinstruktur}{6}{subsection.1.6}%
+\contentsline {subsection}{\numberline {1.7}Paramagnetismus}{7}{subsection.1.7}%
+\contentsline {subsection}{\numberline {1.8}Relaxationsprozesse in Festkörpern}{8}{subsection.1.8}%
+\contentsline {subsection}{\numberline {1.9}Versuchsaufbau und Mikrowellentechnologie}{8}{subsection.1.9}%
+\contentsline {subsubsection}{\numberline {1.9.1}Klystron}{9}{subsubsection.1.9.1}%
+\contentsline {subsubsection}{\numberline {1.9.2}Hohlraumleiter und -resonator}{10}{subsubsection.1.9.2}%
+\contentsline {subsubsection}{\numberline {1.9.3}Hallsonde}{10}{subsubsection.1.9.3}%
+\contentsline {subsubsection}{\numberline {1.9.4}Lock-in-Verstärker}{11}{subsubsection.1.9.4}%
+\contentsline {section}{\numberline {2}Versuchsdurchführung und Auswertung}{11}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Magnetfeldkalibration}{11}{subsection.2.1}%
+\contentsline {section}{\numberline {3}Literaturverzeichnis}{13}{section.3}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
