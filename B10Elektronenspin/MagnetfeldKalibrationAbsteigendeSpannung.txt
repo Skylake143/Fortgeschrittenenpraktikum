@@ -1,4 +1,4 @@
-Spannung [V]	Magnetfeld [mT]	Spannung transformiert [V]
+#Spannung [V]	Magnetfeld [mT]	Spannung transformiert [V]
 3	372	3.741
 2.9	359	3.111
 2.8	351	2.657

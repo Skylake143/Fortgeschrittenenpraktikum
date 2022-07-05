@@ -15,5 +15,6 @@
 \contentsline {subsubsection}{\numberline {1.9.4}Lock-in-Verstärker}{11}{subsubsection.1.9.4}%
 \contentsline {section}{\numberline {2}Versuchsdurchführung und Auswertung}{11}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Magnetfeldkalibration}{11}{subsection.2.1}%
-\contentsline {section}{\numberline {3}Literaturverzeichnis}{13}{section.3}%
+\contentsline {subsection}{\numberline {2.2}Bestimmung des systematischen Fehlers mit Hilfe der DPPH Messung}{14}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Literaturverzeichnis}{16}{section.3}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
